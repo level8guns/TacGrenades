@@ -1,0 +1,14 @@
+name: TacGrenades
+main: me.JayzaSapphire.TacGrenades
+author: JayzaSapphire
+version: 0.1
+permissions:
+  tac.*:
+    description: All perms.
+    default: op
+  tac.flashbang:
+    description: Allows use of flashbangs (Snowballs).
+    default: op
+  tac.stun:
+    description: Allows use of stuns (Exp bottles).
+    default: op
