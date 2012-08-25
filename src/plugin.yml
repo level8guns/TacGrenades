@@ -12,3 +12,9 @@ permissions:
   tac.stun:
     description: Allows use of stuns (Exp bottles).
     default: op
+  tac.insertion:
+    description: Allows use of tactical insertions (Slimeballs)
+    default: op
+  tac.smoke:
+    description: Allows use of smoke grenades (Eggs)
+    default: op
